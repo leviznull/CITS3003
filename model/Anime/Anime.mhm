@@ -1,0 +1,25 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Anime
+camera 10.5 350.5 -0.0748512353373 0.409512714637 0.0601849375922 1.0625
+modifier macrodetails-universal/Muscle 0.500000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier breast/nipple-point-decr|incr -0.156000
+modifier macrodetails/Gender 0.150000
+modifier macrodetails-height/Height 0.646000
+modifier breast/BreastSize 0.762000
+modifier custom/Anime_Style_Test 1.000000
+modifier macrodetails/Age 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Weight 0.500000
+hair animehair 57aa0020-36a6-4e0a-8175-f56f0256b171
+skeleton game_engine.mhskel
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothesHideFaces True
+skinMaterial skins/test/young_caucasian_female_special_suit_modified.mhmat
+material animehair 57aa0020-36a6-4e0a-8175-f56f0256b171 animehair.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/deepblue.mhmat
+subdivide True

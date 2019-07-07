@@ -1,0 +1,29 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Male
+camera 7.0 348.0 0.0438097605973 0.726878057796 -0.26460055143 1.0625
+modifier macrodetails-universal/Muscle 0.986000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 0.660000
+modifier breast/nipple-point-decr|incr 0.414000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.653000
+modifier breast/BreastSize 0.810000
+modifier head/head-invertedtriangular 0.517000
+modifier macrodetails/Age 0.500000
+modifier breast/BreastFirmness 0.728000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier breast/nipple-size-decr|incr 0.374000
+modifier macrodetails-universal/Weight 0.619000
+modifier breast/breast-volume-vert-down|up 0.538000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+proxy male_muscle_13290 79e967dc-3f7a-4f2d-851e-4f06753ed571
+hair afro01 59627022-32e9-4126-9cf1-036d4b9335fc
+skeleton game_engine.mhskel
+eyes Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa
+clothesHideFaces False
+skinMaterial skins/young_caucasian_male/young_caucasian_male_special_suit.mhmat
+material afro01 59627022-32e9-4126-9cf1-036d4b9335fc afro01.mhmat
+material Low-Poly 1cc97a30-85a1-42e6-a9f7-b3e753732baa eyes/materials/brown.mhmat
+subdivide False
